@@ -4,7 +4,7 @@
 ?>
 <header>
 			<div class="wrapper">
-				<h1 class="logo">Sonko Car Company</h1>
+				<h1 class="logo">Company</h1>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<?php
