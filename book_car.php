@@ -21,7 +21,7 @@
 		?>
 
 			<section class="caption">
-				<h2 class="caption" style="text-align: center">Find You Dream Cars For Hire</h2>
+				<h2 class="caption" style="text-align: center">Find You Cars For Hire</h2>
 				<h3 class="properties" style="text-align: center">Range Rovers - Mercedes Benz - Landcruisers</h3>
 			</section>
 	</section><!--  end hero section  -->
